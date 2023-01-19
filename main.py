@@ -1,3 +1,3 @@
 
 print("hello world!")
-print("boro smierdzi kupom")
+print("idiot check")
